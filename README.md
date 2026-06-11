@@ -47,4 +47,10 @@ Proyecto en desarrollo activo. Los experimentos viven en `notebooks/` y se irán
 
 ## Autoría
 
-Investigación desarrollada en el marco del curso de Introducción a la Investigación Intermedio (Sem1/2026) de Computación Hiperdimensional, en la Universidad Católica del Uruguay. <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/96017cf4-90b3-4c43-a309-c1f7e80638c4" />
+Investigación desarrollada por la estudiante Alexia Aurrecochea. 
+En el marco del curso de Introducción a la Investigación Intermedio (Sem1/2026) de Computación Hiperdimensional, a cargo del docente Dr. Gustavo Vazquéz.
+
+Universidad Católica del Uruguay Dámaso Antonio Larrañaga.
+
+<img width="432" height="155" alt="image" src="https://github.com/user-attachments/assets/8fe04c25-f403-4ead-998b-51b1023fe351" />
+
